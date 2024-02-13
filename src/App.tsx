@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import { Home } from "./pages/Home.page";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
